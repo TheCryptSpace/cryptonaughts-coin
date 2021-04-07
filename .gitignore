@@ -6,3 +6,4 @@ artifacts
 
 #MacOS
 .DS_Store
+._*

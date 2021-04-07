@@ -12,5 +12,6 @@ Use [hardhat](https://hardhat.org/): `npx hardhat`
 
 ## Useful Links
 
-* [hardhat](https://hardhat.org/)
-* [BSC scan testnet](https://testnet.bscscan.com/)
+* [Hardhat](https://hardhat.org/)
+* [BSC Scan testnet](https://testnet.bscscan.com/)
+* [Binance Smart Chain Faucet](https://testnet.binance.org/faucet-smart)
